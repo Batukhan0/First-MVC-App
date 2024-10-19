@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HUSO\\source\\repos\\MvcMovie\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594D983C-1BCE-4EDB-B202-BAE212705A30}|MvcMovie\\MvcMovie.csproj|c:\\users\\huso\\source\\repos\\mvcmovie\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594D983C-1BCE-4EDB-B202-BAE212705A30}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594D983C-1BCE-4EDB-B202-BAE212705A30}|MvcMovie\\MvcMovie.csproj|c:\\users\\huso\\source\\repos\\mvcmovie\\mvcmovie\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594D983C-1BCE-4EDB-B202-BAE212705A30}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\HUSO\\source\\repos\\MvcMovie\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\HUSO\\source\\repos\\MvcMovie\\MvcMovie\\Controllers\\HelloWorldController.cs*",
+              "RelativeToolTip": "MvcMovie\\Controllers\\HelloWorldController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:17:16.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\Users\\HUSO\\source\\repos\\MvcMovie\\MvcMovie\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\Users\\HUSO\\source\\repos\\MvcMovie\\MvcMovie\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\HomeController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:14:21.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
